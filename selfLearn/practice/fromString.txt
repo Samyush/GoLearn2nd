@@ -1,0 +1,1 @@
+Hello form Go, this is my trying to write in txt file using go!
